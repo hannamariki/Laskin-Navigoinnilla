@@ -58,7 +58,6 @@ export default function Calculator({ navigation, onAddHistory }) {
 
 const styles = StyleSheet.create({
 
-
   input: {
     width: 250,
     height: 47,
@@ -67,10 +66,6 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     alignSelf: 'center', 
     flexDirection: 'row',
-    
- 
-    
-    
     
   },
   title: {
@@ -86,9 +81,6 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between', 
     marginVertical: 20,
   },
-
-  
-
 
 });
 
